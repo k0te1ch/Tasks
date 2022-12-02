@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PackageSearchMavenConfiguration">
+    <option name="MAVEN_SCOPES_DEFAULT" value="compile, import" />
+  </component>
+</project>
