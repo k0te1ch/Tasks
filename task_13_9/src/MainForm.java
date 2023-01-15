@@ -103,6 +103,7 @@ public class MainForm extends JFrame {
             public void windowClosing(WindowEvent e) {
                 try {
                     if (game.getScore() > game.getRecord()){
+                        game.setRecord(game.getScore());
                         game.writeRecord();
                     }
                 } catch (FileNotFoundException ex) {

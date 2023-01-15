@@ -333,4 +333,8 @@ public class Game {
     public int getTime() {
         return mainForm.time;
     }
+
+    public void setRecord(int score) {
+        record = score;
+    }
 }

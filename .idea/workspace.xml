@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e975933f-44a9-4b14-8f98-cfa94c2e94ff" name="Changes" comment="Done 13 task">
-      <change afterPath="$PROJECT_DIR$/task_13_9/game.bat" afterDir="false" />
+    <list default="true" id="e975933f-44a9-4b14-8f98-cfa94c2e94ff" name="Changes" comment="Done 11 task">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_13_9/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_13_9/src/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_13_9/src/MainForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/task_13_9/src/MainForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,14 +129,7 @@
       <option name="project" value="LOCAL" />
       <updated>1672290355210</updated>
     </task>
-    <task id="LOCAL-00007" summary="Done 13 task">
-      <created>1673793443916</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1673793443916</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -171,13 +166,27 @@
     <MESSAGE value="Create iml files to make project structure" />
     <MESSAGE value="Change .gitignore" />
     <MESSAGE value="Done 11 task" />
-    <MESSAGE value="Done 13 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done 13 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done 11 task" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/task_13_9/src/MainForm.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/task_13_9/src/Game.java</url>
+          <line>312</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="Ball" memberName="gain" />
+        <PinnedItemInfo parentTag="TreeNode" memberName="root" />
       </pinned-members>
     </pin-to-top-manager>
   </component>
